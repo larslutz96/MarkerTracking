@@ -1,27 +1,24 @@
 {
-  "name": "motiondetector",
-  "version": "1.0.4",
-  "description": "Capture of motion in the webcam.",
-  "main": "index.js",
+  "name": "MarkerTracking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wentzien/MotionDetector.git"
+    "url": "git+https://github.com/larslutz96/MarkerTracking.git"
   },
-  "keywords": [
-    "motion",
-    "motioncapture",
-    "motiondetection",
-    "capture",
-    "detection",
-    "webcam"
-  ],
-  "author": "Dennis Wentzien",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wentzien/MotionDetector/issues"
+    "url": "https://github.com/larslutz96/MarkerTracking/issues"
   },
-  "homepage": "https://github.com/wentzien/MotionDetector#readme"
+  "homepage": "https://github.com/larslutz96/MarkerTracking#readme"
 }
